@@ -4,4 +4,5 @@ void main(){
   //Fix for hotfix
   // Another fix
   // one more
+  int abc = 0;
 }
